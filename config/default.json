@@ -1,0 +1,5 @@
+{
+  "mongouri": "mongodb+srv://priyajit:indiatimes@cluster0.bb04n.mongodb.net/urlshortner?retryWrites=true&w=majority",
+  "baseURI": "http://localhost:5000",
+  "jwtsecret": "secret"
+}
